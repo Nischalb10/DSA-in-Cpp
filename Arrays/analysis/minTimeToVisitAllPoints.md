@@ -3,7 +3,7 @@ Solution Approach
 
 The solution uses a simple approach to iterate through the list of points and compute the time taken to travel from one point to the next.
 
-The Python code provided employs a function `minTimeToVisitAllPoints` under a `Solution` class. This function makes use of a list comprehension along with the built-in Python function `sum` to accumulate a total.
+The code provided employs a function `minTimeToVisitAllPoints` under a `Solution` class. This function makes use of a list comprehension along with the built-in Python function `sum` to accumulate a total.
 
 Here's a step-by-step walkthrough of what the given solution does:
 
@@ -22,7 +22,6 @@ Here's a step-by-step walkthrough of what the given solution does:
 
 The use of list comprehension along with `sum` makes for concise and efficient code. The underlying algorithm relies on the observation that, thanks to the rules of movement on the 2D plane, the time to move from one point to another is determined by the greater of the horizontal and vertical distances. By calculating and summing these times for each consecutive pair of points, the total travel time is found.
 
-Note: The `pairwise` function is not a standard Python built-in function up to Python 3.9. It's available in the `itertools` module in Python 3.10. For earlier Python versions, a similar function can be implemented or imported from libraries such as `more_itertools`. If `pairwise` isn't available or defined, that line would raise an error.
 
 Time and Space Complexity
 -------------------------
