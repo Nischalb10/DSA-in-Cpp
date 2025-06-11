@@ -1,7 +1,7 @@
 Approach
 ========
 
-Actually, there isn't much to explation. We will check `4 direcitons`(`top`, `right`, `bottom`, `left`) from each place.
+Actually,there isn't much to explation. We will check `4 direcitons`(`top`, `right`, `bottom`, `left`) from each place.
 
 If we find `"1"`, we will keep the place(`row` and `column`).
 
