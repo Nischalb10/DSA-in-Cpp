@@ -1,5 +1,5 @@
 
-# 🔢 LeetCode Problem: Missing Number
+#  Missing Number
 
 ## 📘 Problem Statement
 

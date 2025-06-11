@@ -1,7 +1,7 @@
 Solution Approach
 -----------------
 
-The solution uses a simple approach to iterate through the list of points and compute the time taken to travel from one point to the next.
+The solution uses a simple approach to iterate through the list of points and compute the time taken to travel from one point to the next
 
 The code provided employs a function `minTimeToVisitAllPoints` under a `Solution` class. This function makes use of a list comprehension along with the built-in Python function `sum` to accumulate a total.
 

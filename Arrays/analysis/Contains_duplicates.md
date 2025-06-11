@@ -1,5 +1,5 @@
 
-# 🧠 LeetCode Problem: Contains Duplicate
+# Contains Duplicate
 
 ## 📘 Problem Statement
 
