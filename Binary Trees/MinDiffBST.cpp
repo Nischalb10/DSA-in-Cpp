@@ -20,7 +20,6 @@
 // 0 <= Node.val <= 105
 #include <iostream>
 #include <climits>
-#include <vector>
 using namespace std;
 
 // Definition for a binary tree node.
